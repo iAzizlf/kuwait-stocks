@@ -1,16 +1,1 @@
-[
-  {
-    "symbol": "KFH",
-    "name": "بيتك",
-    "price": 0.870,
-    "change": 0.012,
-    "volume": 1200000
-  },
-  {
-    "symbol": "ZAIN",
-    "name": "زين",
-    "price": 0.625,
-    "change": 0.020,
-    "volume": 2000000
-  }
-]
+[]
